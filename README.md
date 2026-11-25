@@ -86,7 +86,8 @@ flowchart TD
 
 | Crime Category Reports |
 | :---: |
-| ![Category Reports](screenshots/category-reports.png) |
+| ![Category Reports](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7de8a84d-05a8-4513-a4df-59c50e80d353" />
+) |
 
 ---
 
