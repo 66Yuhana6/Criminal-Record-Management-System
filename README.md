@@ -1,6 +1,12 @@
-# Criminal Management System
+## 📌 What is a Criminal Record Management System?
 
-A **5th-semester academic project** built with **Core PHP** and **MySQL** to digitize and manage criminal records, case registrations, court details, prison records, and crime classifications using full **CRUD (Create, Read, Update, Delete)** operations.
+A **Criminal Record Management System (CRMS)** is a centralized digital platform built to replace traditional paper-based police and law enforcement files with a fast, searchable, and secure relational database.
+
+Instead of manually searching through physical registers, authorized administrators can use the system to:
+- **Maintain Digital Profiles:** Store personal details, contact information, biometric metrics (height and weight), and identification photos for every registered individual.
+- **Track Case Histories:** Link criminals directly to specific offenses, crime categories, dates, assigned courts, and correctional facilities (prisons).
+- **Retrieve Information Instantly:** Search, filter, update, and generate real-time reports across all records in seconds while preventing data duplication or loss.
+
 
 ---
 
