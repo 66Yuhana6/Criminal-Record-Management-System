@@ -71,7 +71,8 @@ flowchart TD
 
 | Crime Registration Form | Crime Reports |
 | :---: | :---: |
-| ![Crime Registration](screenshots/crime-registration.png) | ![Crime Reports](screenshots/crime-reports.png) |
+| ![Crime Registration](screenshots/crime-registration.png) | ![Crime Reports](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c6ae0555-79d9-42a8-a8c8-cc86dac67238" />
+) |
 
 | Criminal Reports Table | Criminal Profile Cards & Search |
 | :---: | :---: |
