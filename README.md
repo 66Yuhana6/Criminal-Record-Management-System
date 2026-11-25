@@ -81,7 +81,8 @@ flowchart TD
 
 | Court Reports | Prison Reports |
 | :---: | :---: |
-| ![Court Reports](screenshots/court-reports.png) | ![Prison Reports](screenshots/prison-reports.png) |
+| ![Court Reports](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5af93ce6-b24b-4d62-82c3-403f102a25d0" />
+) | ![Prison Reports](screenshots/prison-reports.png) |
 
 | Crime Category Reports |
 | :---: |
