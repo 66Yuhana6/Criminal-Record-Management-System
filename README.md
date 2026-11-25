@@ -78,7 +78,8 @@ flowchart TD
 | Criminal Reports Table | Criminal Profile Cards & Search |
 | :---: | :---: |
 | ![Criminal Reports](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8a4e9af1-c75b-4a8e-af04-36703ecfde4e" />
-) | ![Criminal Profiles](screenshots/criminal-profiles.png) |
+) | ![Criminal Profiles](<img width="1920" height="1080" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/9f2fb9e0-e39c-47ea-98c7-0c99fc80333f" />
+) |
 
 | Court Reports | Prison Reports |
 | :---: | :---: |
